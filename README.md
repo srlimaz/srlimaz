@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 ##
 
@@ -10,5 +10,6 @@
   
 ##
   
+  <h4>🧑‍🎓 Estudante de Análise e desenvolvimento de sistemas - FIAP</h4>
 
   
