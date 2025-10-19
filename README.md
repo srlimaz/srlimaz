@@ -2,21 +2,17 @@
 
 ## Sobre mim
 
-Atualmente, estou me especializando ainda mais, em uma busca constante para ampliar meus conhecimentos e experiências, com o objetivo de me tornar ainda mais capacitado para o mercado.
+Atualmente, estou estagiando e estudando mais profundamente JS, Node e futuramente Nest.
 
-💻 Minha experiência inclui:
+Minha experiência inclui:
 
-🔵 Java e Python: Desenvolvimento de aplicações e manipulação de dados.
+Java e Python: Desenvolvimento de aplicações e manipulação de dados.
+Front-end: Conhecimento em JS, Node.
+Ferramentas: Figma para design, modelagem de dados relacionais e lógicos, Scrum e UML.
+Banco de Dados: Experiência em Oracle, MySQL, PostgreSQL.
+Estou continuamente atualizando meu conhecimento, participando de cursos online, lendo documentação e colaborando com outros desenvolvedores em projetos open-source.
 
-🌐 Front-end: Conhecimento em HTML, CSS e JavaScript.
-
-🛠️ Ferramentas: Figma para design, modelagem de dados relacionais e lógicos, Scrum e UML.
-
-🗃️ Banco de Dados: Experiência em Oracle e modelagem de banco de dados.
-
-📚 Estou continuamente atualizando meu conhecimento, participando de cursos online, lendo documentação e colaborando com outros desenvolvedores em projetos open-source.
-
-🎨 Além disso, sou parte da equipe que mantém o projeto "@adoteumartista", que tem como objetivo promover artistas e suas obras, demonstrando meu comprometimento com causas sociais e colaboração em projetos significativos.
+Além disso, sou parte da equipe que mantém o projeto "@adoteumartista", que tem como objetivo promover artistas e suas obras.
 
 
 
@@ -28,8 +24,8 @@ Atualmente, estou me especializando ainda mais, em uma busca constante para ampl
   
   
   <h4>
-    🧑‍🎓 Cursando Engenharia de Software - Anhanguera</br>
-    🧑‍🎓 Formado em Análise e desenvolvimento de sistemas - FIAP - 2023
+    Cursando Engenharia de Software - Anhanguera</br>
+    Formado em Análise e desenvolvimento de sistemas - FIAP - 2023
   </h4>
 
 
